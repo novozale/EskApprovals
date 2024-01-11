@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EskApprovals</string>
+    <string name="settings_name">Настройки программы</string>
+    <string name="menu_settings_name">Настройки</string>
+    <string name="menu_exit_name">Выход</string>
+    <string name="menu_back_name">Выход</string>
+    <string name="OrderNumberLabelName">Заказ:</string>
+    <string name="Info">Информация</string>
+</resources>

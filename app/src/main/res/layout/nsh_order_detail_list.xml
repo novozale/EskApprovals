@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nsh_order_detail_list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:background="#DDDDDD"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nsh_order_detail_lbl1"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="#EEEEEE"
+                android:gravity="center_vertical"
+                android:text="Номер строки:" />
+
+            <TextView
+                android:id="@+id/nsh_order_detail_StringNum"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="3dp"
+                android:textColor="@color/Navy" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nsh_order_detail_lbl2"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="#EEEEEE"
+                android:gravity="center_vertical"
+                android:text="Запас:" />
+
+            <TextView
+                android:id="@+id/nsh_order_detail_ItemCode"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="3dp"
+                android:textColor="@color/Navy" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nsh_order_detail_lbl3"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="#EEEEEE"
+                android:gravity="center_vertical"
+                android:text="Количество:" />
+
+            <TextView
+                android:id="@+id/nsh_order_detail_ItemQTY"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="3dp"
+                android:textColor="@color/Navy" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nsh_order_detail_lbl4"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="#EEEEEE"
+                android:gravity="center_vertical"
+                android:text="Цена:" />
+
+            <TextView
+                android:id="@+id/nsh_order_detail_ItemPrice"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="3dp"
+                android:textColor="@color/Navy" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nsh_order_detail_lbl5"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="#EEEEEE"
+                android:gravity="center_vertical"
+                android:text="Расч. с/стоимость:" />
+
+            <TextView
+                android:id="@+id/nsh_order_detail_ItemCalcPriCost"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="3dp"
+                android:textColor="@color/Navy" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nsh_order_detail_lbl6"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="#EEEEEE"
+                android:gravity="center_vertical"
+                android:text="Расч. маржа (%):"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/nsh_order_detail_ItemCalcMargin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="3dp"
+                android:textColor="@color/Navy"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

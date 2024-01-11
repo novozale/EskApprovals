@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/activity_add_allowance.xml" value="0.35280797101449274" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/activity_conversion_to1_type.xml" value="0.3686594202898551" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/activity_edit_allowance.xml" value="0.3686594202898551" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/activity_main.xml" value="0.3686594202898551" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/activity_non_zero_order_list.xml" value="0.37135416666666665" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/activity_shipment_allowance.xml" value="0.3686594202898551" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/advances_info.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/advances_list.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/allowed_edit_orders.xml" value="0.335" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/credit_state.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/non_zero_non_edit_orders.xml" value="0.37135416666666665" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/nsh_order_detail.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/nsh_order_detail_list.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/nshn0_order_detail_list.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/order_0_decision.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/order_0_info.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/order_n0_decision.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/order_n0_info.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/ovedinvoices_list.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/owedinvoices_info.xml" value="0.3641304347826087" />
+        <entry key="..\:/Data/Workplaces/Android/AndroidStudioProjects/EskApprovals/app/src/main/res/layout/settings_wrapper.xml" value="0.3686594202898551" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

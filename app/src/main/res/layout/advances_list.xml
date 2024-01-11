@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/adv_list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/my_adv_date"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#EEEEEE"
+            android:gravity="center_vertical"
+            android:padding="2dp"
+            android:text="Номер СФ:" />
+
+        <TextView
+            android:id="@+id/my_adv_summ"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="3dp"
+            android:textColor="@color/Navy" />
+    </LinearLayout>
+
+</LinearLayout>
